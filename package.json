@@ -1,7 +1,6 @@
 {
   "name": "fictional-university-theme",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "build": "wp-scripts build",
@@ -18,5 +17,6 @@
     "@wordpress/scripts": "*",
     "axios": "^0.21.1",
     "normalize.css": "^8.0.1"
-  }
+  },
+  "description": ""
 }
